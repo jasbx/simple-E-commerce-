@@ -38,7 +38,7 @@ const Page = () => {
     <p style={{paddingTop:'5px'}}>
       You dont have a Account ?
 
-        <Link href="/register" className="animation a5">Register</Link>
+        <Link href="/register" className="animation a5">Login</Link>
     </p>
   </div>
  
